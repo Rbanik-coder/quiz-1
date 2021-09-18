@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+}
+
+.greeting{
+  font-size: 20px;
+  color: hsl(0, 20%, 99%);
+  font-weight: bolder;
+}
+
+.title{
+  font-size: 40px;
+  color: hsl(0, 20%, 99%);
+}
